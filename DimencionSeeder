@@ -1,0 +1,8 @@
+
+
+[37;41m 
+Command "db:seed-" is not defined.
+                                                                                   [39;49m
+
+ [32mDo you want to run "db:seed" instead?  (yes/no)[39m [[33mno[39m]:
+ > 

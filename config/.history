@@ -1,0 +1,80 @@
+php artisan serve
+composer install
+sudo chmod -R 755 storage
+composer global require "laravel/installer"
+composer global require "laravel/installer"
+php artisan serve
+sudo chmod -R 755 storage
+php artisan tinker
+$ composer install
+composer install
+php --v
+php -v
+php artisan serve
+php artisan serve
+composer install
+sudo chmod -R 755 storage
+composer global require "laravel/installer"
+composer global require "laravel/installer"
+php artisan serve
+sudo chmod -R 755 storage
+$ composer install
+composer install
+php --v
+php -v
+php artisan serve
+php aetisan migrate:fresh --seed
+php artisan make:seeder RespuestaSeeder
+php artisan make:factory RespuestaFactory
+php artisan db:seed -v
+php artisan db:seed
+php artisan db:seed --class=UsuarioSeeder
+php artisan db:seed --class=DiagnosticoSeeder
+php artisan migrate:fresh --seed
+php artisan tinker
+exit
+php artisan serve
+exit
+php artisan list
+php artisan serve
+php artisan serve
+php artisan serve
+php artisan serve
+phgpphpphpartisan seed
+php artisan serve
+composer install
+php --v
+php -v
+php artisan serve
+php aetisan migrate:fresh --seed
+php artisan make:seeder RespuestaSeeder
+php artisan make:factory RespuestaFactory
+php artisan db:seed -v
+php artisan db:seed --class=UsuarioSeeder
+php artisan db:seed --class=DiagnosticoSeeder
+php artisan tinker
+exit
+php artisan serve
+exit
+php artisan list
+php artisan serve
+php artisan serve
+php artisan serve
+php artisan db:seed
+php artisan cache:clear
+php artisan make:controller productosController
+php artisan make:controller ProductosController
+php artisan route:list
+php artisan make:model Producto
+php artisan make:migration create_productos_table
+php artisan migrate --path=/database/migrations/create_productos_table.php
+php artisan migrate
+-v
+php artisan migrate:refresh -v
+php artisan migrate:fresh
+php artisan migrate:refresh
+php artisan make:seeder Productos_seeder
+php artisan make:factory ProductosFactory
+php artisan db:seed Productos_seeder
+php artisan db:seed --class=Productos_seeder
+php artisan migrate:fresh --seed
